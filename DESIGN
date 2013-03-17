@@ -1,0 +1,13 @@
+DESIGN
+======
+
+This doucment contains all HTML template design related issues.
+
+1. All template modules should work in both persisted and CGI
+   environments.
+2. All template processors should have similiar interfaces.
+3. TemplateManager will manage the template cache, file cache,
+   and mixed caches.
+
+
+G, Duan
